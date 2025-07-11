@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🚀 Launch On Bonk
 
-<!--
-**LaunchOnBonk/LaunchOnBonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Launch On Bonk** makes launching your own coin on X effortless and accessible.
 
-Here are some ideas to get you started:
+🔗 [Check out our website → launchonbonk.online](https://launchonbonk.online/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Features
+
+- **No Fees**  
+  → ZERO trading fees
+
+- **Built on Solana**  
+  → Fast transactions, low fees, and high scalability.
+
+- **Fast**  
+  → The fastest way to launch a coin in all of crypto
+
+- **Rewards**  
+  → Releasing a reward system that incentivizes coin longevity
+
+---
+
+## 🛠 Coming Soon
+
+- **API Scale**  
+  → Optimize the system to increase coin generation and enhance processing speed.
+
+- **Reward Claims**  
+  → Users will be able to claim rewards directly on our website.
+
+- **Wallet Integration**
+
+
