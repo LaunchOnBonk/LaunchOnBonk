@@ -133,7 +133,7 @@ We welcome contributions from the community!
 
 ## 📬 Contact
 
-For questions or support, connect with us on [Twitter](https://twitter.com).
+For questions or support, connect with us on [Twitter]([https://twitter.com](https://x.com/Launch_on_bonk)).
 
 ---
 
